@@ -1,5 +1,4 @@
 # Tamagotchi Project
-------------------------------
  사용자와 상호작용하는 다마고치 Source Code for Arduino UNO Device.
  
 ## Equipment Components
@@ -13,9 +12,7 @@
 
 > 1K Resistor * 3
 
-------------------------------
 ## Source Code
-------------------------------
 ### Arduino Main Source Code File
 > tamagotchi.ino
 
@@ -92,8 +89,6 @@ Bitmap images
     static const unsigned char PROGMEM *[]
 ```
 
-------------------------------
 ## Creator & Contact
-------------------------------
 > SSU Department of Media Management 20 bjkang
 > kaq6822@naver.com
